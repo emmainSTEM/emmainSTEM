@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmainSTEM
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on web app dev
+- 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me: eduong378@gmail.com
 
 <!---
